@@ -1,0 +1,4 @@
+# GSuite accounts — one per line: email|password
+# Example:
+# user1@yourdomain.com|YourPassword123
+# user2@yourdomain.com|YourPassword456

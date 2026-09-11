@@ -1,0 +1,16 @@
+{
+  "name": "alysis-farm",
+  "version": "1.0.0",
+  "description": "Automated Alysis Code account farming — Google OAuth → slk_ API keys",
+  "main": "farm.js",
+  "scripts": {
+    "farm": "node farm.js",
+    "farm:5": "node farm.js --count 5",
+    "test": "node farm.js --count 1"
+  },
+  "keywords": ["alysis", "deepseek", "api-key", "farming", "gsuite"],
+  "license": "MIT",
+  "dependencies": {
+    "playwright-core": "^1.52.0"
+  }
+}
