@@ -1,6 +1,6 @@
-# Alysis Code Farm
+# Alis Code Farm
 
-Automated account farming for [Alysis Code](https://alysiscode.com) — get free `slk_` API keys for DeepSeek-v4 models using Google OAuth (GSuite accounts).
+Automated account farming for [Alis Code](https://alysiscode.com) — get free `slk_` API keys for DeepSeek-v4 models using Google OAuth (GSuite accounts).
 
 ## Features
 
